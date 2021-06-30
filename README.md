@@ -1,2 +1,4 @@
 # random-choice-picker
-Project 13: Ranom Choice Picker
+Project 13: Random Choice Picker
+
+A project from 50projects50days.com
